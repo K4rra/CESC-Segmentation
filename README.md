@@ -8,8 +8,7 @@ The dataset is available at https://drive.google.com/drive/folders/1bq8VS7r6Cn9d
 
 example:
 
-<img src="image.png" alt="Image" width="300" height="auto">
-<img src="mask.png" alt="mask" width="300" height="auto">
+<img src="image.png" alt="Image" width="300" height="auto"> <img src="mask.png" alt="mask" width="300" height="auto">
 
 
 
