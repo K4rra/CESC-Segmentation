@@ -5,8 +5,9 @@ This repo is implementation for TexSem-Net in pytorch.
 
 ## Dataset
 The dataset is available at https://drive.google.com/drive/folders/1bq8VS7r6Cn9dYqieGe-VzjQYu5dxW9B6
-![](/image.png)
-![](/mask.png)
+<img src="image.png" alt="Image" width="300" height="auto">
+<img src="mask" alt="mask" width="300" height="auto">
+
 
 
 ## Citation
