@@ -1,7 +1,7 @@
 # Pytorch Implementation of TexSem-Net
 
 This repo is implementation for TexSem-Net in pytorch.
-The manuscript is currently undergoing review, and the complete source code repository will be made publicly available through our institutional archive upon formal publication of the paper
+The manuscript is currently undergoing review, and the complete source code repository will be made publicly available through our institutional archive upon formal publication of the paper.
 
 ## Dataset
 The dataset is available at https://drive.google.com/drive/folders/1bq8VS7r6Cn9dYqieGe-VzjQYu5dxW9B6
