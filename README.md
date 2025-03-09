@@ -5,8 +5,8 @@ This repo is implementation for TexSem-Net in pytorch.
 
 ## Dataset
 The dataset is available at https://drive.google.com/drive/folders/1bq8VS7r6Cn9dYqieGe-VzjQYu5dxW9B6
-![](/visualizer/pathological.png)
-![](/visualizer/label.png)
+![](/image.png)
+![](/mask.png)
 
 
 ## Citation
