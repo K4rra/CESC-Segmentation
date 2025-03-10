@@ -8,8 +8,8 @@ The manuscript is currently undergoing review, and the complete source code repo
 The dataset is available at https://drive.google.com/drive/folders/1bq8VS7r6Cn9dYqieGe-VzjQYu5dxW9B6
 
 Published articles on this dataset include:
-1) Huang P, Luo X. FDTs: A feature disentangled transformer for interpretable squamous cell carcinoma grading[J]. IEEE/CAA Journal of Automatica Sinica, 1-3, 2025.
-2) Di Giammarco M, Mercaldo F, Zhou X, et al. A robust and explainable deep learning method for cervical cancer screening[C]//International Conference on Applied Intelligence and Informatics. Cham: Springer Nature Switzerland, 111-125, 2023.
+1) Pan Huang; Xin Luo FDTs: A feature disentangled transformer for interpretable squamous cell carcinoma grading[J]. IEEE/CAA Journal of Automatica Sinica, 1-3, 2025.
+2) Marcello Di Giammarco, Francesco Mercaldo, Xiaoli Zhou, Pan Huang, Antonella Santone, Mario Cesarelli & Fabio Martinelli . A robust and explainable deep learning method for cervical cancer screening[C]//International Conference on Applied Intelligence and Informatics. Cham: Springer Nature Switzerland, 111-125, 2023.
 
 example:
 
